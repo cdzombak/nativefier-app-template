@@ -1,0 +1,20 @@
+{
+    "menuLabel": "Example",
+    "bookmarks": [
+        {
+            "title": "lofi.cafe",
+            "url": "https://lofi.cafe/",
+            "type": "link",
+            "shortcut": "Cmd+1"
+        },
+        {
+            "type": "separator"
+        },
+        {
+            "title": "RÜFÜS DU SOL Live from Joshua Tree",
+            "type": "link",
+            "url": "https://www.youtube.com/watch?v=Zy4KtD98S2c",
+            "shortcut": "Cmd+Option+1"
+        }
+    ]
+}

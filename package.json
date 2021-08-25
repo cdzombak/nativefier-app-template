@@ -1,0 +1,17 @@
+{
+  "name": "My Nativefier App",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdzombak/nativefier-app-template.git"
+  },
+  "author": "Chris Dzombak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cdzombak/nativefier-app-template/issues"
+  },
+  "homepage": "https://github.com/cdzombak/nativefier-app-template#readme",
+  "dependencies": {
+    "nativefier": "github:nativefier/nativefier#master"
+  }
+}
